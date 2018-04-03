@@ -1,0 +1,2 @@
+# PENGANTAR-STATISTIKA-KEUANGAN
+Tentang program R PSK
